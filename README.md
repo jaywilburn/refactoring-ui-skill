@@ -23,7 +23,7 @@ An opinionated agent skill for building professional UI without a designer, base
 
 ```bash
 # Clone to your skills directory
-git clone https://github.com/YOUR_USERNAME/refactoring-ui-skill.git ~/.agents/skills/refactoring-ui
+git clone https://github.com/jaywilburn/refactoring-ui-skill.git ~/.agents/skills/refactoring-ui
 ```
 
 Or copy `skills/refactoring-ui/SKILL.md` to your preferred skills location:
@@ -34,7 +34,7 @@ Or copy `skills/refactoring-ui/SKILL.md` to your preferred skills location:
 ### Via npx (once indexed)
 
 ```bash
-npx skills add YOUR_USERNAME/refactoring-ui-skill/refactoring-ui
+npx skills add jaywilburn/refactoring-ui-skill/refactoring-ui
 ```
 
 ## When It Triggers
