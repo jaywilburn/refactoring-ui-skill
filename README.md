@@ -4,6 +4,14 @@ An opinionated agent skill for building professional UI without a designer, base
 
 ## What This Skill Covers
 
+### Design Thinking
+- **Design Personality & Tone** — Formal/casual, reserved/expressive framework with domain anchors
+- **Color Theory & Psychology** — Color wheel, harmony schemes, hue psychology, saturation as a design lever
+- **Layout Decision Framework** — Content-first layout selection, density spectrum, domain layout profiles
+- **Breaking AI Defaults** — Named anti-patterns (purple gradients, SaaS templates) with concrete alternatives
+- **Component Variation** — Same component, different design based on context
+
+### Execution
 - **Visual Hierarchy** — Size, weight, and color as tools for emphasis
 - **Typography** — Modular scales, line height, letter spacing, weight strategy
 - **Color** — HSL palettes, UI states, warm/cool grays, accessibility
@@ -59,14 +67,18 @@ The skill activates when you're:
 
 ## Differentiators
 
-Unlike other Refactoring UI skills, this one includes:
+Unlike other UI design skills, this one fights AI-generated sameness head-on:
 
-1. **Dark Mode Design** — Surface hierarchy, saturation shifts, proper dark palettes
-2. **Form Design Patterns** — Complete form styling guidance
-3. **Accessibility Section** — Beyond contrast ratios (focus, motion, semantics)
-4. **Animation Principles** — Timing, easing, what to animate
-5. **Design Audit Checklist** — Structured review process
-6. **Mobile-First Focus** — Detailed responsive patterns
+1. **Design Thinking Layer** — Strategic decisions (personality, color theory, layout strategy) before tactical execution
+2. **Anti-AI-Sameness** — Explicitly names and provides alternatives to common AI defaults (purple gradients, SaaS templates, uniform card grids)
+3. **Color Theory & Psychology** — Full color wheel, harmony schemes, hue psychology, and saturation strategies — not just "pick a palette"
+4. **Domain-Aware Design** — Personality profiles and layout patterns for fintech, healthcare, e-commerce, creative tools, dev tools, and more
+5. **Component Variation** — Cards, navs, buttons, and tables styled differently based on context, not copied from a template
+6. **Dark Mode Design** — Surface hierarchy, saturation shifts, proper dark palettes
+7. **Form Design Patterns** — Complete form styling guidance
+8. **Accessibility Section** — Beyond contrast ratios (focus, motion, semantics)
+9. **Animation Principles** — Timing, easing, what to animate
+10. **Design Audit Checklist** — Structured review process including personality and intent checks
 
 ## Credits
 
